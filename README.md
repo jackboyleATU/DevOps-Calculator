@@ -38,8 +38,8 @@ src/main/resources/templates/
 └── index.html                  # Thymeleaf UI
 ```
 
-## Licence
-Licensed under GPL-3.0, see [LICENCE](LICENCE.md)
+## License
+Licensed under GPL-3.0, see [LICENCE](LICENSE.md)
 
 ## Branching Strategy
 This project uses **GitHub Flow**
