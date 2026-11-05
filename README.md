@@ -39,7 +39,7 @@ src/main/resources/templates/
 ```
 
 ## License
-Licensed under GPL-3.0, see [LICENCE](LICENSE.md)
+Licensed under GPL-3.0, see [LICENSE](LICENSE)
 
 ## Branching Strategy
 This project uses **GitHub Flow**
