@@ -19,7 +19,7 @@ In the command prompt:
 ```bash
 git clone https://github.com/jackboyleATU/DevOps-Calculator.git
 cd DevOps-Calculator
-mvn spring-bootrun
+mvn spring-boot:run
 ```
 
 Then in your browser of choice, go to [http://localhost:8080](http://localhost:8080)
@@ -57,7 +57,7 @@ GitHub Flow is a lightweight branching strategy that uses a single protected 'ma
 1. Create or pick an issue describing the change.
 2. Branch off the latest `main`:
     ```
-    git checkout mian
+    git checkout main
     git pull
     git checkout -b feature/3-division
     ```
